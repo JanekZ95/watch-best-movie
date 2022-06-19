@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/watch-best-movie/static/css/main.7e639f0e.css",
+    "main.css": "/watch-best-movie/static/css/main.98c982ac.css",
     "main.js": "/watch-best-movie/static/js/main.6dcc83c4.js",
     "index.html": "/watch-best-movie/index.html",
-    "main.7e639f0e.css.map": "/watch-best-movie/static/css/main.7e639f0e.css.map",
+    "main.98c982ac.css.map": "/watch-best-movie/static/css/main.98c982ac.css.map",
     "main.6dcc83c4.js.map": "/watch-best-movie/static/js/main.6dcc83c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e639f0e.css",
+    "static/css/main.98c982ac.css",
     "static/js/main.6dcc83c4.js"
   ]
 }

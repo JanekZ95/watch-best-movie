@@ -4,6 +4,6 @@ react-app
 
 Visit:
 
-http://jebeCie.github.io/watch-best-movie
+http://JanekZ95.github.io/watch-best-movie
 
 Enjoy!
